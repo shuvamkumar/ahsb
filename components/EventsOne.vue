@@ -13,7 +13,7 @@
                     <div class="events-content events-list" data-aos="fade-up" data-aos-duration="1000">
                         <div class="event-item">
                             <div class="thumb">
-                                <img class="thumb-img" src="/images/events/1.jpg" alt="Image">
+                                <img class="thumb-img" src="/images/events/1.jpeg" alt="Image">
                                 <nuxt-link to="/event-details" class="btn-theme btn-gradient btn-size-sm">
                                     Join Now 
                                     <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon">
@@ -28,7 +28,7 @@
                         </div>
                         <div class="event-item">
                             <div class="thumb">
-                                <img class="thumb-img" src="/images/events/2.jpg" alt="Image">
+                                <img class="thumb-img" src="/images/events/2.jpeg" alt="Image">
                                 <nuxt-link to="/event-details" class="btn-theme btn-gradient btn-size-sm">
                                     Join Now 
                                     <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon">
@@ -43,7 +43,7 @@
                         </div>
                         <div class="event-item">
                             <div class="thumb">
-                                <img class="thumb-img" src="/images/events/3.jpg" alt="Image">
+                                <img class="thumb-img" src="/images/events/3.jpeg" alt="Image">
                                 <nuxt-link to="/event-details" class="btn-theme btn-gradient btn-size-sm">
                                     Join Now 
                                     <img class="icon icon-img" src="/images/icons/arrow-line-right.png" alt="Icon">

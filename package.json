@@ -1,5 +1,11 @@
 {
   "private": true,
+  "name": "nuxt",
+  "version": "1.0.0",
+  "description": "My nuxt.js project",
+  "author": "Nuxt.js <nuxtjs.org>",
+  "license": "MIT",
+  "main": ".nuxt/app.config.mjs",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
