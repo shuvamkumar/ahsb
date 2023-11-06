@@ -7,7 +7,7 @@
                         <div class="event-details-content">
                             <div class="event-details">
                                 <div class="thumb">
-                                    <img class="mb-40 w-100" src="/images/events/d1.jpg" alt="Image-Givest">
+                                    <img class="mb-40 w-100" src="" alt="Image-Givest">
                                 </div>
                                 <div class="event-time-info">
                                     <div class="info-item">
