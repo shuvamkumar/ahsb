@@ -61,7 +61,7 @@
                 <div class="col-8 offset-2 col-sm-8 offset-sm-2 col-md-8 offset-md-2 col-lg-4 offset-lg-0">
                     <div class="layer-style">
                         <div class="thumb tilt-animation">
-                            <img src="/images/photos/event1.png" alt="Image">
+                            <img src="" alt="Image">
                             <div class="play-video-btn">
                                 <a class="btn-play play-video-popup wave-btn" href="https://www.youtube.com/watch?v=eS9Qm4AOOBY">
                                     <span></span>

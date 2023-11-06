@@ -16,55 +16,55 @@
             return {
                 donnerList: [
                     {
-                        imgSrc: "/images/photos/donner1.png",
+                        imgSrc: "",
                         alt: "image"
                     },
                     {
-                        imgSrc: "/images/photos/donner2.png",
+                        imgSrc: "",
                         alt: "image"
                     },
                     {
-                        imgSrc: "/images/photos/donner3.png",
+                        imgSrc: "",
                         alt: "image"
                     },
                     {
-                        imgSrc: "/images/photos/donner4.png",
+                        imgSrc: "",
                         alt: "image"
                     },
                     {
-                        imgSrc: "/images/photos/donner5.png",
+                        imgSrc: "",
                         alt: "image"
                     },
                     {
-                        imgSrc: "/images/photos/donner1.png",
+                        imgSrc: "",
                         alt: "image"
                     },
                     {
-                        imgSrc: "/images/photos/donner2.png",
+                        imgSrc: "",
                         alt: "image"
                     },
                     {
-                        imgSrc: "/images/photos/donner3.png",
+                        imgSrc: "",
                         alt: "image"
                     },
                     {
-                        imgSrc: "/images/photos/donner4.png",
+                        imgSrc: "",
                         alt: "image"
                     },
                     {
-                        imgSrc: "/images/photos/donner5.png",
+                        imgSrc: "",
                         alt: "image"
                     },
                     {
-                        imgSrc: "/images/photos/donner1.png",
+                        imgSrc: "",
                         alt: "image"
                     },
                     {
-                        imgSrc: "/images/photos/donner2.png",
+                        imgSrc: "",
                         alt: "image"
                     },
                     {
-                        imgSrc: "/images/photos/donner3.png",
+                        imgSrc: "",
                         alt: "image"
                     },
                 ]

@@ -63,9 +63,9 @@
             return {
                 blogs: [
                     {
-                        imgSrc: "/images/blog/1.jpg",
-                        metaDate: 26,
-                        metaMonth: "January",
+                        imgSrc: "/images/events/4.jpg",
+                        metaDate: 2,
+                        metaMonth: "October",
                         category: "Celebration",
                         title: "Gandhi Jayanti",
                         desc: "On the occasion of Gandhi Jayanti, multiple events like quiz contests, speech and song competition are organised. Inmates are taught of the values and practices imparted by Gandhi ji. A small cleanliness campaign is also held.",
@@ -93,7 +93,7 @@
                         ]
                     },
                     {
-                        imgSrc: "/images/blog/2.jpg",
+                        imgSrc: "/images/events/2.jpeg",
                         metaDate: 10,
                         metaMonth: "July",
                         category: "Celebration",
@@ -123,7 +123,7 @@
                         ]
                     },
                     {
-                        imgSrc: "/images/blog/3.jpg",
+                        imgSrc: "/images/events/1.jpeg",
                         metaDate: 15,
                         metaMonth: "August",
                         category: "Celebration",
