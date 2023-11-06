@@ -12,13 +12,13 @@
             <div class="row">
                 <div class="col-lg-4">
                     <div class="thumb thumb-style">
-                        <img src="/images/about/3.jpg" alt="image">
+                        <img src="/images/about/4.webp" alt="image">
                     </div>
                 </div>
                 <div class="col-lg-8">
                     <div class="about-content">
-                        <p class="text-style">Lorem Ipsum simply dummy text the printing and typesettin industry. Lorem Ipsum has been the industry's standard dumm text ever since the unknown.</p>
-                        <p class="mb-0">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when and unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>The inception of a naïve attempt to do good for the disadvantage children who are from poor and disadvantaged families has not been a sheer coincidence when a group of youngsters joined hand in 1979 with a spirit to serve the needy – despite their own personal constraints that majorly included acute financial stringency as well as the demographical limitations of the locality where the venture been started. </p>
+                        <p class="mb-0 text-style">This is the story – that speaks very simply about the background to Origin of Acharya Harihar Sishu Bhawan.</p>
                     </div>
                     <div class="content-box-wrp">
                         <div class="row mtn-30">
@@ -26,8 +26,8 @@
                                 <div class="content-box-item">
                                     <h3 class="title">Mission</h3>
                                     <img class="img-line-shape" src="/images/shape/line-s1.png" alt="image">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since 1500 when unknown printer took a galley of type and scram bled it to make a type specimen book.</p>
-                                    <p class="font-family2 mb-0">Lorem Ipsum simply dummy text the printing & typesetting industry been the industry standard dummy make type specimen book.</p>
+                                    <p>To empower the poor mass, develop their potential, improve their socio-economic status and eradiate poverty thereby bringing sustainable development with emphasis on weaker and vulnerable section.</p>
+                                    <!-- <p class="font-family2 mb-0">Lorem Ipsum simply dummy text the printing & typesetting industry been the industry standard dummy make type specimen book.</p> -->
                                     <img class="bg-line-shape" src="/images/shape/line5.png" alt="image">
                                 </div>
                             </div>
@@ -35,8 +35,8 @@
                                 <div class="content-box-item" :style="{backgroundColor: '#fea444'}">
                                     <h3 class="title">Vission</h3>
                                     <img class="img-line-shape" src="/images/shape/line-s1.png" alt="image">
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since 1500 when unknown printer took a galley of type and scram bled it to make a type specimen book.</p>
-                                    <p class="font-family2 mb-0">Lorem Ipsum simply dummy text the printing & typesetting industry been the industry standard dummy make type specimen book.</p>
+                                    <p>To show path to all deprived people of society which is just and participatory, free from all sorts of discrimination ensuring equal rights to all irrespective of Caste, Creed, Sex and Religion by providing equal opportunities.</p>
+                                    <!-- <p class="font-family2 mb-0">Lorem Ipsum simply dummy text the printing & typesetting industry been the industry standard dummy make type specimen book.</p> -->
                                     <img class="bg-line-shape" src="/images/shape/line5.png" alt="image">
                                 </div>
                             </div>

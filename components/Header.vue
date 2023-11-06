@@ -22,7 +22,7 @@
                                     <i class="icon-bottom"></i>
                                 </button>
                             </div>
-                            <nuxt-link to="/contact" class="btn-theme btn-gradient btn-slide btn-style">
+                            <nuxt-link to="/error" class="btn-theme btn-gradient btn-slide btn-style">
                                 Give Support 
                                 <img class="icon icon-img" src="/images/icons/arrow-line-right2.png" alt="Icon">
                             </nuxt-link>

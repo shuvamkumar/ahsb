@@ -8,29 +8,29 @@
         </li>
         <li class="has-submenu">
             <nuxt-link to="/causes">Causes</nuxt-link>
-            <ul class="submenu-nav">
+            <!-- <ul class="submenu-nav">
                 <li>
                     <nuxt-link to="/causes">Causes</nuxt-link>
                 </li>
                 <li>
-                    <nuxt-link to="/causes-details">Causes Details</nuxt-link>
+                <nuxt-link to="/causes-details">Causes Details</nuxt-link>
                 </li>
-            </ul>
+            </ul> -->
         </li>
         <li class="has-submenu">
-            <nuxt-link to="/blog">Blog</nuxt-link>
-            <ul class="submenu-nav">
+            <nuxt-link to="/blog">Events</nuxt-link>
+            <!-- <ul class="submenu-nav">
                 <li>
                     <nuxt-link to="/blog">Blog</nuxt-link>
                 </li>
                 <li>
                     <nuxt-link to="/blog-details">Blog Details</nuxt-link>
                 </li>
-            </ul>
+            </ul> -->
         </li>
         <li class="has-submenu">
-            <nuxt-link to="/event-details">Pages</nuxt-link>
-            <ul class="submenu-nav">
+            <nuxt-link to="/event-details">Gallery</nuxt-link>
+            <!-- <ul class="submenu-nav">
                 <li>
                     <nuxt-link to="/event-details">Event Details</nuxt-link>
                 </li>
@@ -40,10 +40,13 @@
                 <li>
                     <nuxt-link to="/donation">Donation</nuxt-link>
                 </li>
-            </ul>
+            </ul> -->
         </li>
         <li>
             <nuxt-link to="/contact">Contact Us</nuxt-link>
+        </li>
+        <li>
+            <nuxt-link to="/error">Careers</nuxt-link>
         </li>
     </ul>
 </template>

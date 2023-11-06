@@ -2,8 +2,9 @@
     <div class="main-container">
         <Header />
         <OffCanvasMobileMenu />
-        <Breadcrumb items="Event details" title="Event details" />
-        <EventDetailsContent />
+        <Breadcrumb items="Gallery" title="Gallery" />
+        <!-- <EventDetailsContent /> -->
+        <Gallery />
         <Footer />
     </div>
 </template>

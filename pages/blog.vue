@@ -2,8 +2,9 @@
     <div class="blog-page-wrapper">
         <Header />
         <OffCanvasMobileMenu />
-        <Breadcrumb items="Blog" title="All blog posts" />
-        <BlogGridWrapper />
+        <Breadcrumb items="Events" title="All events and celebrations" />
+        <!-- <BlogGridWrapper /> -->
+        <BlogNew />
         <Footer />
     </div>
 </template>

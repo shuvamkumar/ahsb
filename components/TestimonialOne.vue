@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-lg-4 col-xl-5 position-static">
-                    <div class="title-wrp" :style="{ backgroundImage: `url('/images/testimonial/bg-testi1.jpg')` }">
+                    <div class="title-wrp" :style="{ backgroundImage: `url('/images/testimonial/bg-testi1.webp')` }">
                         <div class="section-title">
                             <h5 class="subtitle line-white-color text-white mb-7">Recent Events</h5>
                             <h2 class="title title-style text-white">

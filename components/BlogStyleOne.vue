@@ -25,7 +25,7 @@
                             <div class="inner-content">
                                 <div class="meta">
                                     <nuxt-link to="/blog" class="post-category">{{ blog.category }}</nuxt-link>
-                                    <div class="post-share">
+                                    <!-- <div class="post-share">
                                         <button class="icon-share">
                                             <img src="/images/icons/share-line-gradient.png" alt="Icon">
                                         </button>
@@ -36,7 +36,7 @@
                                                 </a>
                                             </li>
                                         </ul>
-                                    </div>
+                                    </div> -->
                                 </div>
                                 <h4 class="title">
                                     <nuxt-link to="/blog-details">{{ blog.title }}</nuxt-link>
@@ -44,10 +44,10 @@
                                 <p>{{ blog.desc }}</p>
                             </div>
                             <div class="post-footer">
-                                <nuxt-link to="/blog-details" class="btn-theme btn-border-gradient btn-size-xs">
+                                <!-- <nuxt-link to="/blog-details" class="btn-theme btn-border-gradient btn-size-xs">
                                     <span>Details <img class="icon icon-img" src="/images/icons/arrow-line-right-gradient.png" alt="Icon"></span>
-                                </nuxt-link>
-                                <nuxt-link to="/blog" class="post-author">By: Robbins</nuxt-link>
+                                </nuxt-link> -->
+                                <nuxt-link to="/blog" class="post-author">By: Pratyush</nuxt-link>
                             </div>
                         </div>
                     </div>
@@ -67,8 +67,8 @@
                         metaDate: 26,
                         metaMonth: "January",
                         category: "Celebration",
-                        title: "Republic day",
-                        desc: "National flag of India is hoisted, patriotic are sung and the national anthem is played. Inmates participate in various activities such as essay writing, painting and cultural performances. ",
+                        title: "Gandhi Jayanti",
+                        desc: "On the occasion of Gandhi Jayanti, multiple events like quiz contests, speech and song competition are organised. Inmates are taught of the values and practices imparted by Gandhi ji. A small cleanliness campaign is also held.",
                         socials: [
                             {
                                 icon: "icofont-facebook",
@@ -97,8 +97,8 @@
                         metaDate: 10,
                         metaMonth: "July",
                         category: "Celebration",
-                        title: "Holi",
-                        desc: " Holi is celebrated by playing with colours. Inmates sing and dance with joy. Inmates enjoy the holi with making paper craft and other fun activities. Drawing along with delicious food.",
+                        title: "Mahak 'n' Utschah",
+                        desc: "District and state level events are organised as mahak and utschah to create a child friendly atmosphere. Inmates participated in cultural and athletic events,  allowing them to explore their interests and abilities.",
                         socials: [
                             {
                                 icon: "icofont-facebook",
@@ -127,8 +127,8 @@
                         metaDate: 15,
                         metaMonth: "August",
                         category: "Celebration",
-                        title: "Independence Day",
-                        desc: "Our CCI organise various activities to nurture patriotism, including flag hoisting, cultural songs. These activities add fun and are a wonderful way to encourage creativity in inmates.",
+                        title: "Rakhsa Bandhan",
+                        desc: "Celebrating Raksha Bandhan, the staffs of AHSB tied the sacred thread to inmates and expressed their gratitude for their Raksha with the bandhan. This is a symbol of universal brotherhood and to foster the spirit of love.",
                         socials: [
                             {
                                 icon: "icofont-facebook",

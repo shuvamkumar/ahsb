@@ -4,10 +4,11 @@
         <OffCanvasMobileMenu />
         <Breadcrumb items="About us" title="About us" />
         <AboutTwo />
-        <TeamOne />
-        <FunFactOne />
+        <!-- <TeamOne /> -->
+        <!-- <FunFactOne /> -->
+        <div class="mt-100"></div>
         <TestimonialOne />
-        <Sponsor />
+        <!-- <Sponsor /> -->
         <Footer />
     </div>
 </template>

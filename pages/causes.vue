@@ -3,10 +3,11 @@
         <Header />
         <OffCanvasMobileMenu />
         <Breadcrumb items="Causes" title="Causes" />
-        <CausesWrapper />
-        <FunFactOne />
+        <!-- <CausesWrapper /> -->
+        <!-- <FunFactOne /> -->
+        <CausesOne />
         <TestimonialOne />
-        <Sponsor />
+        <!-- <Sponsor /> -->
         <Footer />
     </div>
 </template>

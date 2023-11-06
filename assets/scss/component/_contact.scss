@@ -26,7 +26,7 @@
 
 .contact-colunm {
 	display: flex;
-	padding-left: 183px;
+	padding: 60px;
 	@media #{$xl-device} {
 		padding-left: 80px;
 	}
@@ -157,8 +157,25 @@
 		background-color: $white-f7;
 		max-width: 662px;
 		min-width: 662px;
-		padding: 145px 100px 151px 132px;
+		padding: 0 100px 151px 0;
 		width: 100%;
+		.contact-info{
+			margin-top: 2rem;
+			display: flex;
+			align-items: flex-start;
+			justify-content: space-around;
+			flex-direction: column;
+			span{
+				font-size: 1.2rem;
+			}
+			a{
+				font-size: 1.2rem;
+			}
+			.info-container{
+				margin: 0;
+			}
+			
+		}
 		@media #{$xl-device} {
 			max-width: 550px;
 			min-width: 550px;

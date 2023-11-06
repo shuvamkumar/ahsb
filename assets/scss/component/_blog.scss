@@ -45,6 +45,8 @@
 		img {
 			width: 100%;
 			@include transition(0.8s);
+			height: 22rem;
+			object-fit: cover;
 		}
 		.meta-date {
 			align-items: center;

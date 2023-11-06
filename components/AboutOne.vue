@@ -15,10 +15,10 @@
                         <div class="thumb">
                             <div class="row m-0">
                                 <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4 p-0 d-none d-sm-block d-lg-none d-xl-block tilt-animation">
-                                    <img src="/images/about/4.jpg" alt="Image">
+                                    <img src="/images/about/4.webp" alt="Image">
                                 </div>
                                 <div class="col-sm-8 col-md-8 col-lg-12 col-xl-8 p-0 tilt-animation">
-                                    <img class="img-two" src="/images/about/5.jpg" alt="Image">
+                                    <img class="img-two" src="/images/about/5.webp" alt="Image">
                                 </div>
                             </div>
                         </div>

@@ -24,7 +24,7 @@
                                 <div class="row row-cols-3 row-gutter-10 mtn-2">
                                     <div class="col mt-10">
                                         <div class="gallery-item">
-                                            <img src="/images/photos/1.jpg" alt="image">
+                                            <img src="/images/photos/1.webp" alt="image">
                                             <a class="icon" href="#">
                                                 <i class="icofont-instagram"></i>
                                             </a>
@@ -32,7 +32,7 @@
                                     </div>
                                     <div class="col mt-10">
                                         <div class="gallery-item">
-                                            <img src="/images/photos/2.jpg" alt="image">
+                                            <img src="/images/photos/2.webp" alt="image">
                                             <a class="icon" href="#">
                                                 <i class="icofont-instagram"></i>
                                             </a>
@@ -40,7 +40,7 @@
                                     </div>
                                     <div class="col mt-10">
                                         <div class="gallery-item">
-                                            <img src="/images/photos/3.jpg" alt="image">
+                                            <img src="/images/photos/3.webp" alt="image">
                                             <a class="icon" href="#">
                                                 <i class="icofont-instagram"></i>
                                             </a>
@@ -48,7 +48,7 @@
                                     </div>
                                     <div class="col mt-10">
                                         <div class="gallery-item">
-                                            <img src="/images/photos/4.jpg" alt="image">
+                                            <img src="/images/photos/4.webp" alt="image">
                                             <a class="icon" href="#">
                                                 <i class="icofont-instagram"></i>
                                             </a>
@@ -56,7 +56,7 @@
                                     </div>
                                     <div class="col mt-10">
                                         <div class="gallery-item">
-                                            <img src="/images/photos/5.jpg" alt="image">
+                                            <img src="/images/photos/5.webp" alt="image">
                                             <a class="icon" href="#">
                                                 <i class="icofont-instagram"></i>
                                             </a>
@@ -64,7 +64,7 @@
                                     </div>
                                     <div class="col mt-10">
                                         <div class="gallery-item">
-                                            <img src="/images/photos/6.jpg" alt="image">
+                                            <img src="/images/photos/6.webp" alt="image">
                                             <a class="icon" href="#">
                                                 <i class="icofont-instagram"></i>
                                             </a>
