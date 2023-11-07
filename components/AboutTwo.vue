@@ -33,7 +33,7 @@
                             </div>
                             <div class="col-lg-6 mt-30">
                                 <div class="content-box-item" :style="{backgroundColor: '#fea444'}">
-                                    <h3 class="title">Vission</h3>
+                                    <h3 class="title">Vision</h3>
                                     <img class="img-line-shape" src="/images/shape/line-s1.png" alt="image">
                                     <p>To show path to all deprived people of society which is just and participatory, free from all sorts of discrimination ensuring equal rights to all irrespective of Caste, Creed, Sex and Religion by providing equal opportunities.</p>
                                     <!-- <p class="font-family2 mb-0">Lorem Ipsum simply dummy text the printing & typesetting industry been the industry standard dummy make type specimen book.</p> -->

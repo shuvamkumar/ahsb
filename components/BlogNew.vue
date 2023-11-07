@@ -5,7 +5,7 @@
                 <div class="col-md-8 col-lg-6 m-auto">
                     <div class="section-title text-center" data-aos="fade-up" data-aos-duration="1000">
                         <h5 class="subtitle line-theme-color">Events and Celebrations</h5>
-                        <h2 class="title title-style">Latest News From AHSB <img class="img-shape" src="/images/shape/3.png" alt="Image-Givest"></h2>
+                        <h2 class="title title-style">Latest News from AHSB<img class="img-shape" src="/images/shape/3.png" alt="Image-Givest"></h2>
                     </div>
                 </div>
             </div>
