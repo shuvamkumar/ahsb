@@ -25,7 +25,7 @@
                         <div class="layer-style">
                             <div class="thumb scene">
                                 <span class="scene-layer" data-depth="0.20">                     
-                                    <img class="" src="/images/slider/1.jpg" alt="Image">
+                                    <img class="" src="/images/slider/1.webp" alt="Image">
                                 </span>
                                 <div class="shape-circle scene">
                                     <span class="scene-layer" data-depth="0.10">
