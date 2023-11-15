@@ -7,7 +7,7 @@
                         <div class="blog-content-area post-items-style2">
                             <div class="post-item" v-for="(blog, index) in blogs" :key="index">
                                 <div class="thumb">
-                                    <nuxt-link to="/blog-details">
+                                    <nuxt-link to="#">
                                         <img :src="blog.imgSrc" :alt="blog.title">
                                     </nuxt-link>
                                     <div class="meta-date">
@@ -26,10 +26,10 @@
                                             </nuxt-link>
                                         </div>
                                         <h4 class="title">
-                                        <nuxt-link to="/blog-details">{{ blog.title }}</nuxt-link>
+                                        <nuxt-link to="#">{{ blog.title }}</nuxt-link>
                                         </h4>
                                         <p>{{ blog.desc }}</p>
-                                        <nuxt-link to="/blog-details" class="btn-theme btn-border-gradient btn-size-md">
+                                        <nuxt-link to="#" class="btn-theme btn-border-gradient btn-size-md">
                                             <span>Read More 
                                                 <img class="icon icon-img" src="/images/icons/arrow-line-right-gradient.png" alt="Icon">
                                             </span>

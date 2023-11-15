@@ -81,22 +81,24 @@
                                 <div class="row">
                                     <div class="col-6">
                                         <ul class="nav-menu nav">
-                                            <li><a href="#">About Us</a></li>
-                                            <li><a href="#">Blog Post Terms</a></li>
-                                            <li><a href="#">Conditions</a></li>
-                                            <li><a href="#">Privacy Policy</a></li>
-                                            <li><a href="#">Documentation</a></li>
-                                            <li><a href="#">Donners</a></li>
+                                            <li><a href="/">Home</a></li>
+                                            <li><a href="/about">About Us</a></li>
+                                            <li><a href="/event-details">Gallery</a></li>
+                                            <li><a href="/causes">Causes</a></li>
+                                            
                                         </ul>
                                     </div>
                                     <div class="col-6">
                                         <ul class="nav-menu nav align-right">
-                                            <li><a href="#">Become Volunteer</a></li>
-                                            <li><a href="#">Quick Fundraise</a></li>
+                                            <li><a href="/blog">Events</a></li>
+                                            <li><a href="/contact">Contact Us</a></li>
+                                            <li><a href="/error">Careers</a></li>
+                                            <li><a href="/error">Donate</a></li>
+                                            <!-- <li><a href="#">Quick Fundraise</a></li>
                                             <li><a href="#">Give Donation</a></li>
                                             <li><a href="#">Become Volunteer</a></li>
                                             <li><a href="#">Food And Water</a></li>
-                                            <li><a href="#">Medical facilities</a></li>
+                                            <li><a href="#">Medical facilities</a></li> -->
                                         </ul>
                                     </div>
                                 </div>

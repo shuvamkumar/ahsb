@@ -13,7 +13,7 @@
                 <div class="col-md-6 col-lg-4 mt-150" v-for="(blog, index) in blogs" :key="index">
                     <div class="post-item">
                         <div class="thumb">
-                            <nuxt-link to="/blog-details">
+                            <nuxt-link to="/">
                                 <img :src="blog.imgSrc" :alt="blog.title">
                             </nuxt-link>
                             <div class="meta-date">
@@ -39,7 +39,7 @@
                                     </div> -->
                                 </div>
                                 <h4 class="title">
-                                    <nuxt-link to="/blog-details">{{ blog.title }}</nuxt-link>
+                                    <nuxt-link to="#">{{ blog.title }}</nuxt-link>
                                 </h4>
                                 <p>{{ blog.desc }}</p>
                             </div>
@@ -124,7 +124,7 @@
                     },
                     {
                         imgSrc: "/images/events/1.jpeg",
-                        metaDate: 15,
+                        metaDate: 30,
                         metaMonth: "August",
                         category: "Celebration",
                         title: "Rakhsa Bandhan",
@@ -154,8 +154,8 @@
                     },
                     {
                         imgSrc: "/images/events/3.jpeg",
-                        metaDate: 15,
-                        metaMonth: "August",
+                        metaDate: 5,
+                        metaMonth: "September",
                         category: "Celebration",
                         title: "Teachers' day",
                         desc: "Expressing gratitude is at the core of this celebration, with students pouring their hearts into handwritten letters, heartfelt speeches, and handmade cards to convey their thanks. Various competitions are also organised.",
@@ -244,8 +244,8 @@
                     },
                     {
                         imgSrc: "/images/events/9.jpeg",
-                        metaDate: 15,
-                        metaMonth: "August",
+                        metaDate: 26,
+                        metaMonth: "January",
                         category: "Celebration",
                         title: "Saraswati Puja ",
                         desc: "Our inmates celebrated the festival by wearing new clothes on the day before puja. The inmates offer “Puspanjali“ at the feet of the goddess gives her blessing. After puja they sit together and enjoy the Sweet Prasad.",
@@ -273,8 +273,8 @@
                         ]
                     },{
                         imgSrc: "/images/events/5.jpeg",
-                        metaDate: 15,
-                        metaMonth: "August",
+                        metaDate: 8,
+                        metaMonth: "March",
                         category: "Celebration",
                         title: "Holi",
                         desc: "Holi is celebrated by playing with colours. All our inmates look forward to this festival. Inmates sing and dance with joy. Inmates enjoy the holi with making paper craft, drawing along with delicious food.",

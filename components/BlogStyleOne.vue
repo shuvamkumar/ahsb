@@ -13,7 +13,7 @@
                 <div class="col-md-6 col-lg-4 mt-150" v-for="(blog, index) in blogs" :key="index">
                     <div class="post-item">
                         <div class="thumb">
-                            <nuxt-link to="/blog-details">
+                            <nuxt-link to="#">
                                 <img :src="blog.imgSrc" :alt="blog.title">
                             </nuxt-link>
                             <div class="meta-date">
@@ -39,7 +39,7 @@
                                     </div> -->
                                 </div>
                                 <h4 class="title">
-                                    <nuxt-link to="/blog-details">{{ blog.title }}</nuxt-link>
+                                    <nuxt-link to="#">{{ blog.title }}</nuxt-link>
                                 </h4>
                                 <p>{{ blog.desc }}</p>
                             </div>
@@ -124,7 +124,7 @@
                     },
                     {
                         imgSrc: "/images/events/1.jpeg",
-                        metaDate: 15,
+                        metaDate: 30,
                         metaMonth: "August",
                         category: "Celebration",
                         title: "Rakhsa Bandhan",

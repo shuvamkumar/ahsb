@@ -5,7 +5,7 @@
                 <div class="col-md-6 col-lg-4 mt-60" v-for="(blog, index) in blogs" :key="index">
                     <div class="post-item">
                         <div class="thumb">
-                            <nuxt-link to="/blog-details">
+                            <nuxt-link to="#">
                                 <img :src="blog.imgSrc" :alt="blog.title">
                             </nuxt-link>
                         </div>
