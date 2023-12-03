@@ -85,20 +85,18 @@
                                             <li><a href="/about">About Us</a></li>
                                             <li><a href="/event-details">Gallery</a></li>
                                             <li><a href="/causes">Causes</a></li>
-                                            
+                                            <li><a href="/blog">Events</a></li>
+                                            <li><a href="/contact">Contact Us</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-6">
                                         <ul class="nav-menu nav align-right">
-                                            <li><a href="/blog">Events</a></li>
-                                            <li><a href="/contact">Contact Us</a></li>
                                             <li><a href="/error">Careers</a></li>
                                             <li><a href="/error">Donate</a></li>
-                                            <!-- <li><a href="#">Quick Fundraise</a></li>
-                                            <li><a href="#">Give Donation</a></li>
-                                            <li><a href="#">Become Volunteer</a></li>
-                                            <li><a href="#">Food And Water</a></li>
-                                            <li><a href="#">Medical facilities</a></li> -->
+                                            <li><a href="https://merchant.razorpay.com/policy/MRrflsF1aeakJ1/privacy">Privacy Policy</a></li>
+                                            <li><a href="https://merchant.razorpay.com/policy/MRrflsF1aeakJ1/refund">Refund Policy</a></li>
+                                            <li><a href="https://merchant.razorpay.com/policy/MRrflsF1aeakJ1/shipping">Shipping Policy</a></li>
+                                            <li><a href="https://merchant.razorpay.com/policy/MRrflsF1aeakJ1/terms">Terms & Conditions</a></li>
                                         </ul>
                                     </div>
                                 </div>
